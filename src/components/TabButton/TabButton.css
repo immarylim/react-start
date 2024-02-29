@@ -1,0 +1,14 @@
+.tab-btn {
+    padding: 7px 10px;
+    border: 1px solid #61dafb;
+    border-radius: 3px;
+    font-size: 1rem;
+    color: #61dafb;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+.active {
+    color: white;
+    background-color: #61dafb;
+}
